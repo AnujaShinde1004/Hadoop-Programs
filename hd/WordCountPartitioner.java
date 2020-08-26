@@ -1,4 +1,4 @@
-package com.deepak.hadoop;
+package com.anuja.hadoop;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
