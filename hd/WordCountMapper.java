@@ -1,4 +1,4 @@
-package com.deepak.hadoop;
+package com.anuja.hadoop;
 
 import java.io.IOException;
 
