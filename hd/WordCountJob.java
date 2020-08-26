@@ -1,4 +1,4 @@
-package com.deepak.hadoop;
+package com.anuja.hadoop;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
